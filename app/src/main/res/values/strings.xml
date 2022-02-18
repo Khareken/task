@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">task</string>
+    <string name="generate">Generate</string>
+    <string name="speed">Speed</string>
+    <string name="size">Size</string>
+    <string-array name="algorithms_array">
+        <item>Basic NonRecursive</item>
+        <item>Queue Linear</item>
+        <item>Basic Recursive</item>
+    </string-array>
+</resources>
